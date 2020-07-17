@@ -1,0 +1,8 @@
+module.exports = {
+    string_var: 'string',
+    number_var: 12345,
+    array_var: [
+        'string',
+        12345
+    ]
+};
